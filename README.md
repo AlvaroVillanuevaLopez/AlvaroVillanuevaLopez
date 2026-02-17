@@ -28,20 +28,9 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver mi actividad reciente:
-
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaroVillanuevaLopez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroVillanuevaLopez&layout=compact&theme=radical"/>
-</p>
-
----
-
-### 📫 Contatemos
-- 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
-- 🐦 [Twitter](https://twitter.com/tu-usuario)
-- 🕸️ [Portafolio Personal](https://tu-web.com)
+### 📫 Contactemos
+<p><a href='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>LinkedIn</a></p>
+<p><a href='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>Gmail</a></p>
+<p><a href='https://alvarovillanuevalopez.github.io/'>Página Personal</a></p>
 
 > "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House.
