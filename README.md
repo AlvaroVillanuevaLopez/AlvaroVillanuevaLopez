@@ -1,9 +1,9 @@
 <h1><a href='https://alvarovillanuevalopez.github.io/'>Álvaro Villanueva López</a></h1>
 <h2>Bienvenido, Soy Álvaro, un placer  👋</h2>
 
-🚀 Desarrollador Web · Administrador Sistemas/Redes | Entusiasta por el conocimiento | Amante del Ajederez ♙♟
+<p>🚀 Desarrollador Web · Administrador Sistemas/Redes | Entusiasta por el conocimiento | Amante del Ajederez ♙♟<p>
 
-Me especializo en el desarrollo, tanto de backend como frontend, además de entender las bases de la administración de servidores y redes, en sistemas Windows/Linux
+<p>Me especializo en el desarrollo, tanto de backend como frontend, además de entender las bases de la administración de servidores y redes, en sistemas Windows/Linux<p>
 ---
 🛠️ Algunas tecnologías estudiadas
 
