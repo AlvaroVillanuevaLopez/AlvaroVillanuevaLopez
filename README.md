@@ -4,7 +4,7 @@
 <p>🚀 Desarrollador Web · Administrador Sistemas/Redes | Entusiasta por el conocimiento | Amante del Ajederez ♙♟<p>
 
 <p>Me especializo en el desarrollo, tanto de backend como frontend, además de entender las bases de la administración de servidores y redes, en sistemas Windows/Linux<p>
----
+
 🛠️ Algunas tecnologías estudiadas
 
 <table width="100%">
