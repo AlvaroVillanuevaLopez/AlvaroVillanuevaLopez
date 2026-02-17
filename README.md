@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Contactemos
-<p><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/><a href='https://www.linkedin.com/in/alvaro-villanueva-lopez/'>LinkedIn</a></p>
+<p><img src='https://alvarovillanuevalopez.github.io/fotos/linkedin.png'/><a href='https://www.linkedin.com/in/alvaro-villanueva-lopez/'>LinkedIn</a></p>
 <p><a href='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>Gmail</a></p>
 <p><a href='https://alvarovillanuevalopez.github.io/'>Página Personal</a></p>
 
