@@ -1,13 +1,11 @@
 <h1><a href='https://alvarovillanuevalopez.github.io/'>Álvaro Villanueva López</a></h1>
-# ¡Hola! Soy [Tu Nombre] 👋
+Bienvenido, Soy Álvaro, un placer  👋
 
-### 🚀 Desarrollador Full Stack | Entusiasta del Open Source | Amante del Café ☕
+🚀 Desarrollador Web · Administrador Sistemas/Redes | Entusiasta por el conocimiento | Amante del Ajederez ♙♟
 
-Me dedico a crear soluciones digitales elegantes y escalables. Actualmente estoy enfocado en mejorar mis habilidades en **Arquitectura de Microservicios** y contribuir a proyectos de comunidad.
-
+Me especializo en el desarrollo, tanto de backend como frontend, además de entender las bases de la administración de servidores y redes, en sistemas Windows/Linux
 ---
-
-### 🛠️ Mis Tecnologías
+🛠️ Algunas tecnologías estudiadas
 
 | Sector | Herramientas |
 | :--- | :--- |
@@ -29,7 +27,7 @@ Aquí puedes ver mi actividad reciente:
 
 ---
 
-### 📫 Conectemos
+### 📫 Contatemos
 - 💼 [LinkedIn](https://linkedin.com/in/tu-usuario)
 - 🐦 [Twitter](https://twitter.com/tu-usuario)
 - 🕸️ [Portafolio Personal](https://tu-web.com)
