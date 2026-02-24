@@ -29,8 +29,8 @@
 ---
 
 ### 📫 Contactemos
-<p><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/><a href='https://www.linkedin.com/in/alvaro-villanueva-lopez/'>LinkedIn</a></p>
-<p><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a href='mailto:alvarovillanuevalopez@gmail.com'>Correo</a></p>
-<p><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/><a href='https://alvarovillanuevalopez.github.io/'>Página Web</a></p>
+<p><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/><a target="_blank" href='https://www.linkedin.com/in/alvaro-villanueva-lopez/'>LinkedIn</a></p>
+<p><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a target="_blank" href='mailto:alvarovillanuevalopez@gmail.com'>Correo</a></p>
+<p><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/><a target="_blank" href='https://alvarovillanuevalopez.github.io/'>Página Web</a></p>
 
 > "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House.
