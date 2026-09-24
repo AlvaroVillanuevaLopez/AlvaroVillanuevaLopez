@@ -1,5 +1,5 @@
 <h1><a href='https://alvarovillanuevalopez.github.io/'>Álvaro Villanueva López</a></h1>
-<h2>Bienvenido, Soy Álvaro, un placer  👋</h2>
+<h2>Bienvenido, me llamo Álvaro, un placer  👋</h2>
 
 <p>🚀 Desarrollador Web · Administrador Sistemas/Redes | Entusiasta por el conocimiento | Amante del Ajederez ♙♟<p>
 
