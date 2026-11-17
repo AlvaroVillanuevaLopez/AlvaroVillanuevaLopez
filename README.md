@@ -1,7 +1,7 @@
 <h1><a href='https://alvarovillanuevalopez.github.io/'>Álvaro Villanueva López</a></h1>
 <h2>Bienvenido, me llamo Álvaro, un placer  👋</h2>
 
-<p>🚀 Desarrollador Web · Administrador Sistemas/Redes · Futuro Ingeniero de datos & IA ·  Aficionado del Ajederez ♙♟<p>
+<p>🚀 Desarrollador Web · Administrador de Sistemas/Redes · Futuro Ingeniero de datos & IA ·  Aficionado del Ajederez ♙♟<p>
 
 <p>Hola, soy Álvaro Villanueva López, estudié en Tajamar en el máster de Data engineering & IA.  
 
