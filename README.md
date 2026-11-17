@@ -1,9 +1,16 @@
 <h1><a href='https://alvarovillanuevalopez.github.io/'>Álvaro Villanueva López</a></h1>
 <h2>Bienvenido, me llamo Álvaro, un placer  👋</h2>
 
-<p>🚀 Desarrollador Web · Administrador Sistemas/Redes | Entusiasta por el conocimiento | Amante del Ajederez ♙♟<p>
+<p>🚀 Desarrollador Web · Administrador Sistemas/Redes · Futuro Ingeniero de datos & IA ·  Aficionado del Ajederez ♙♟<p>
 
-<p>Me especializo en el desarrollo, tanto de backend como frontend, además de entender las bases de la administración de servidores y redes, en sistemas Windows/Linux<p>
+<p>Hola, soy Álvaro Villanueva López, estudié en Tajamar en el máster de Data engineering & IA.  
+
+Mi trayectoria comenzó estudiando el grado superior de Administración de Sistemas Informáticos en Red (ASIR) donde tuve mi primer contacto con el llamativo mundo del desarrollo, tras acabar dicho grado, empecé y terminé, el grado de Desarrollo de Aplicaciones Web (DAW).   
+
+Durante mi formación he adquirido conocimientos, no solo en hardware, redes y sistemas, sino también conocimientos en desarrollo frontend y backend, trabajando con múltiples herramientas como Linux, Windows Server, SQL, Java, Python, PHP, entre otras; Además de desarrollar habilidades muy esenciales en el sector como la escucha activa, organización, resolución de problemas de forma pragmática, trabajo en equipo y liderazgo.   
+
+En este momento estoy buscando una oportunidad para crecer profesionalmente, poder aportar valor con mis conocimientos y adquirir nuevos. Me gustaría tratar una manera en la que podría encajar mi perfil en un equipo como el vuestro, intercambiemos ideas.
+Encantado, gracias por su atención.<p>
 
 🛠️ Algunas tecnologías estudiadas
 
