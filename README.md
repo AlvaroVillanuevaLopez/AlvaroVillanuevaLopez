@@ -21,7 +21,7 @@ Encantado, gracias por su atención.<p>
   </tr>
   <tr>
     <td width="50%"  align="center">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML"/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
       <img src="https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
       <img src="https://img.shields.io/badge/javascript-23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
       <img src="https://img.shields.io/badge/tailwind-06B6D4.svg?style=for-the-badge&logo=tailwind&logoColor=black" alt="TAILWIND"/>
