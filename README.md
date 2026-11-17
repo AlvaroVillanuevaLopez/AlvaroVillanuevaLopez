@@ -29,6 +29,7 @@ Encantado, gracias por su atención.<p>
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>
     </td>
   </tr>
 </table>
@@ -38,7 +39,6 @@ Encantado, gracias por su atención.<p>
 ### 📫 Contactemos
 <p><a target="_blank" href='https://www.linkedin.com/in/alvaro-villanueva-lopez/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a></p>
 <p><a target="_blank" href='mailto:alvarovillanuevalopez@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a></p>
-<p><a target="_blank" href='https://alvarovillanuevalopez.github.io/'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'/></a></p>
 <p><a target="_blank" href='https://alvarovillanuevalopez.github.io/'><img src='https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white'/></a></p>
 
 > "El código es como el humor. Cuando tienes que explicarlo, es malo." – Cory House.
