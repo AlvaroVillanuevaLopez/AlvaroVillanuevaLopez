@@ -23,8 +23,8 @@ Encantado, gracias por su atención.<p>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
       <img src="https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
-      <img src="https://img.shields.io/badge/javascript-23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
-      <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vued&logoColor=black" alt="VUE"/>
+      <img src="https://img.shields.io/badge/javascript-23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JS"/>
+      <img src="https://img.shields.io/badge/vue-4FC08D.svg?style=for-the-badge&logo=vued&logoColor=white" alt="VUE"/>
     </td>
     <td width="50%" align="center">
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -34,8 +34,8 @@ Encantado, gracias por su atención.<p>
     </td>
   </tr>
 </table>
----
-### 📫 Contactemos
+
+📫 Contactemos
 <p><a target="_blank" href='https://www.linkedin.com/in/alvaro-villanueva-lopez/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a></p>
 <p><a target="_blank" href='mailto:alvarovillanuevalopez@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a></p>
 <p><a target="_blank" href='https://alvarovillanuevalopez.github.io/'><img src='https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white'/></a></p>
